@@ -1,0 +1,86 @@
+{
+ "data": {
+  "cities": [
+   {
+    "cityCode": "917476787571000000",
+    "cityName": "Кировск",
+    "extendedCityName": "Ленинградская область, Кировский район",
+    "localityType": "город",
+    "provinceCode": "917476780000000000",
+    "provinceName": "Ленинградская обл"
+   },
+   {
+    "cityCode": "917480829779000000",
+    "cityName": "Кировский",
+    "extendedCityName": "Приморский край, Кировский район",
+    "localityType": "поселок городского типа",
+    "provinceCode": "917480820000000000",
+    "provinceName": "Приморский край"
+   },
+   {
+    "cityCode": "917477779985000000",
+    "cityName": "Кировск",
+    "extendedCityName": "Мурманская область",
+    "localityType": "город",
+    "provinceCode": "917477770000000000",
+    "provinceName": "Мурманская обл"
+   },
+   {
+    "cityCode": "917465779082002000",
+    "cityName": "Кировский",
+    "extendedCityName": "Амурская область, Зейский район",
+    "localityType": "посёлок",
+    "provinceCode": "917465770000000000",
+    "provinceName": "Амурская обл"
+   },
+   {
+    "cityCode": "917483847589030000",
+    "cityName": "Кировский",
+    "extendedCityName": "Ставропольский край, Курский район",
+    "localityType": "хутор",
+    "provinceCode": "917483840000000000",
+    "provinceName": "Ставропольский край"
+   },
+   {
+    "cityCode": "917479777971009000",
+    "cityName": "Кировский АО",
+    "extendedCityName": "Омская область, Омск",
+    "localityType": "территория",
+    "provinceCode": "917479770000000000",
+    "provinceName": "Омская обл"
+   },
+   {
+    "cityCode": "917477839798031000",
+    "cityName": "Кировский",
+    "extendedCityName": "Московская область, Лотошино рабочий поселок",
+    "localityType": "посёлок",
+    "provinceCode": "917477830000000000",
+    "provinceName": "Московская обл"
+   },
+   {
+    "cityCode": "917465769911000000",
+    "cityName": "Кировское",
+    "extendedCityName": "Алтайский край, Алейский район",
+    "localityType": "село",
+    "provinceCode": "917465760000000000",
+    "provinceName": "Алтайский край"
+   },
+   {
+    "cityCode": "917484899796000000",
+    "cityName": "Кировский",
+    "extendedCityName": "Тюменская область, Исетский район",
+    "localityType": "посёлок",
+    "provinceCode": "917484890000000000",
+    "provinceName": "Тюменская обл"
+   },
+   {
+    "cityCode": "917466767386019000",
+    "cityName": "Кировский",
+    "extendedCityName": "Белгородская область, Ивнянский район",
+    "localityType": "посёлок",
+    "provinceCode": "917466760000000000",
+    "provinceName": "Белгородская обл"
+   }
+  ]
+ }
+}

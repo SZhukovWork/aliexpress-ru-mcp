@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "aliexpress-ru-mcp"
+version = "0.1.0"
+description = "MCP server for aliexpress.ru: ruble prices per SKU, coupons with their real thresholds, delivery dates to a Russian city, sellers and reviews"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+keywords = ["mcp", "aliexpress", "aliexpress.ru", "marketplace", "price-comparison", "llm-tools"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+]
+dependencies = [
+    "mcp>=2.2,<3",
+    "requests>=2.31",
+    "playwright>=1.49",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+aliexpress-ru-mcp = "aliexpress_ru_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/aliexpress_ru_mcp"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["live: hits the real aliexpress.ru storefront (deselected unless -m live)"]
+addopts = "-m 'not live'"

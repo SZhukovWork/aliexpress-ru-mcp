@@ -1,0 +1,327 @@
+{
+ "data": {
+  "id": "438997055",
+  "aePlus": null,
+  "titleTags": [],
+  "name": "Повербанк 50000 mAh со встроенными кабелями для зарядки, мощный внешний портативный аккумулятор для телефона, powerbank",
+  "description": "Повербанк 50000 mAh со встроенными кабелями для зарядки, мощный внешний портативный аккумулятор для телефона, powerbank, Наслаждайся ✓Бесплатная доставка по всему миру! ✓Предложение ограничено по времени! ✓Удобный возврат!",
+  "skuInfo": {
+   "propertyList": [
+    {
+     "name": "Цвет",
+     "values": [
+      {
+       "name": "черный",
+       "displayName": "Повербанк",
+       "imagePreviewUrl": null,
+       "imageMainUrl": null,
+       "colorValue": "#000000",
+       "disabled": false,
+       "skuPropertySendGoodsCountryCode": null,
+       "id": "337907",
+       "order": 0
+      },
+      {
+       "name": "Серый",
+       "displayName": "Доп.упаковка",
+       "imagePreviewUrl": null,
+       "imageMainUrl": null,
+       "colorValue": "#808080",
+       "disabled": false,
+       "skuPropertySendGoodsCountryCode": null,
+       "id": "337927",
+       "order": 0
+      }
+     ],
+     "id": "4",
+     "order": 1,
+     "hasSizeInfo": false,
+     "showPrice": null
+    }
+   ],
+   "priceList": [
+    {
+     "skuPropIds": "337907",
+     "activityAmount": {
+      "value": 1982,
+      "currency": "RUB",
+      "formatted": "1 982 ₽",
+      "cents": "198200"
+     },
+     "amount": {
+      "value": 5380,
+      "currency": "RUB",
+      "formatted": "5 380 ₽",
+      "cents": "538000"
+     },
+     "discount": "63",
+     "availQuantity": 659,
+     "skuAttr": "4:337907",
+     "skuId": "5000002213935497",
+     "subsidiary": null,
+     "freightExt": "{\"p0\":\"5000002213935497\",\"p1\":\"1982.00\",\"p3\":\"RUB\",\"p5\":\"0\",\"p7\":\"{}\",\"hideShipFrom\":\"false\",\"preferWarehouse\":\"{\\\"type\\\":\\\"dropshipping\\\",\\\"code\\\":\\\"ae_marketplace\\\",\\\"preferSellableQuantity\\\":659}\"}",
+     "warmupAmount": null,
+     "logisticAmount": {
+      "value": 1982,
+      "currency": "RUB",
+      "formatted": "1 982 ₽",
+      "cents": "198200"
+     },
+     "sendGoodsCountryCode": "",
+     "availQuantityText": "",
+     "isInstantShipping": false,
+     "promotionStock": null,
+     "couponId": "0",
+     "buyerPriceForLogistic": "198200",
+     "priceWithCoupon": null,
+     "customsFee": null,
+     "promoInfo": null,
+     "offerTags": [
+      {
+       "text": "Осталось 99+ шт.",
+       "bgColor": "#EBEBED",
+       "textColor": "#18181B",
+       "imgContent": null,
+       "id": 8,
+       "font": 1
+      }
+     ],
+     "tags": [],
+     "personalSaleInformer": null,
+     "nihaoTagInformer": null,
+     "choiceBuyNowAmount": null,
+     "inCartQuantity": 0,
+     "priceTags": [],
+     "moreCheaperInformer": null,
+     "buyNowAmount": null,
+     "hideBuyNowButton": true,
+     "amountWithoutDip": null,
+     "thresholdDeliveryPrice": "",
+     "isLiked": false,
+     "piecesDiscountInformer": null,
+     "presaleInformer": null,
+     "nowCheaperInformer": null,
+     "wbWalletDiscountInformer": null
+    },
+    {
+     "skuPropIds": "337927",
+     "activityAmount": {
+      "value": 1992,
+      "currency": "RUB",
+      "formatted": "1 992 ₽",
+      "cents": "199200"
+     },
+     "amount": {
+      "value": 5390,
+      "currency": "RUB",
+      "formatted": "5 390 ₽",
+      "cents": "539000"
+     },
+     "discount": "63",
+     "availQuantity": 466,
+     "skuAttr": "4:337927",
+     "skuId": "5000002213935498",
+     "subsidiary": null,
+     "freightExt": "{\"p0\":\"5000002213935498\",\"p1\":\"1992.00\",\"p3\":\"RUB\",\"p5\":\"0\",\"p7\":\"{}\",\"hideShipFrom\":\"false\",\"preferWarehouse\":\"{\\\"type\\\":\\\"dropshipping\\\",\\\"code\\\":\\\"ae_marketplace\\\",\\\"preferSellableQuantity\\\":466}\"}",
+     "warmupAmount": null,
+     "logisticAmount": {
+      "value": 1992,
+      "currency": "RUB",
+      "formatted": "1 992 ₽",
+      "cents": "199200"
+     },
+     "sendGoodsCountryCode": "",
+     "availQuantityText": "",
+     "isInstantShipping": false,
+     "promotionStock": null,
+     "couponId": "0",
+     "buyerPriceForLogistic": "199200",
+     "priceWithCoupon": null,
+     "customsFee": null,
+     "promoInfo": null,
+     "offerTags": [
+      {
+       "text": "Осталось 99+ шт.",
+       "bgColor": "#EBEBED",
+       "textColor": "#18181B",
+       "imgContent": null,
+       "id": 8,
+       "font": 1
+      }
+     ],
+     "tags": [],
+     "personalSaleInformer": null,
+     "nihaoTagInformer": null,
+     "choiceBuyNowAmount": null,
+     "inCartQuantity": 0,
+     "priceTags": [],
+     "moreCheaperInformer": null,
+     "buyNowAmount": null,
+     "hideBuyNowButton": true,
+     "amountWithoutDip": null,
+     "thresholdDeliveryPrice": "",
+     "isLiked": false,
+     "piecesDiscountInformer": null,
+     "presaleInformer": null,
+     "nowCheaperInformer": null,
+     "wbWalletDiscountInformer": null
+    }
+   ],
+   "sizeData": null,
+   "subsidiary": null,
+   "freightExt": "{\"p1\":\"1982.00\",\"p2\":\"1 992\",\"p3\":\"RUB\",\"p5\":\"0\"}"
+  },
+  "delivery": {
+   "from": null,
+   "to": {
+    "country": "RU",
+    "city": "917483866975000000",
+    "region": "917483860000000000",
+    "countryName": null,
+    "cityName": null,
+    "regionName": null
+   },
+   "displayMultipleMethods": false,
+   "methods": [],
+   "multipleFreightVersion": 0,
+   "noticeType": "",
+   "feature": null,
+   "freeMethods": [],
+   "freeShipping": null,
+   "freeThreshold": null,
+   "deliveryDescriptions": null,
+   "returnInfo": null
+  },
+  "quantity": {
+   "activity": false,
+   "displayBulkInfo": false,
+   "bulkDiscount": null,
+   "bulkOrder": null,
+   "oddUnitName": "piece",
+   "multiUnitName": "pieces",
+   "totalCount": "1125",
+   "limit": null
+  },
+  "buyerProtection": {
+   "title": "Вернём деньги, если не получите заказ через {day} дней после отправки.",
+   "description": "Гарантированный возврат средств",
+   "url": "",
+   "easyReturnType": 0,
+   "easyReturnInfo": null,
+   "logisticServicesToHideBp": []
+  },
+  "freeReturn": null,
+  "warrantyList": [],
+  "likes": 0,
+  "liked": false,
+  "price": {
+   "activity": true,
+   "discount": 63,
+   "formattedActivityPrice": "1 982 - 1 992 ₽",
+   "formattedPrice": "5 380 - 5 390 ₽",
+   "lot": false,
+   "numberPerLot": 0,
+   "multiUnitName": "pieces",
+   "maxActivityAmount": {
+    "value": 1992,
+    "currency": "RUB",
+    "formatted": "1 992 ₽",
+    "cents": "199200"
+   },
+   "minActivityAmount": {
+    "value": 1982,
+    "currency": "RUB",
+    "formatted": "1 982 ₽",
+    "cents": "198200"
+   },
+   "maxAmount": {
+    "value": 5390,
+    "currency": "RUB",
+    "formatted": "5 390 ₽",
+    "cents": "539000"
+   },
+   "minAmount": {
+    "value": 5380,
+    "currency": "RUB",
+    "formatted": "5 380 ₽",
+    "cents": "538000"
+   },
+   "formattedDiscount": "63%",
+   "formattedPeriod": "",
+   "lotSizeText": "Цена за 1 штуку"
+  },
+  "rating": {
+   "middle": 4.9,
+   "stars": [],
+   "middleFormatted": "4,9",
+   "countShort": ""
+  },
+  "promotion": {
+   "shopPromoCodeList": [],
+   "crossCouponList": [],
+   "fixedDiscountCouponList": [],
+   "pieceCouponList": [],
+   "newUserCouponList": [],
+   "shopCouponList": []
+  },
+  "banner": null,
+  "exchangeAward": null,
+  "tradeInfo": {
+   "tradeCount": "212",
+   "formatTradeCount": "212 купили",
+   "tradeCountUnit": "купили",
+   "tradeCountFormatted": "212 купили"
+  },
+  "reviews": "28",
+  "characteristics": [],
+  "isLogin": false,
+  "itemStatus": 0,
+  "vehicleInfo": null,
+  "fitPredict": null,
+  "freebiesCount": "0",
+  "itemMinPrice": "5 380 - 5 390 ₽",
+  "sellerAdminSeq": "0",
+  "activeSkuId": "5000002213935498",
+  "hideElements": null,
+  "uniformBanner": null,
+  "storeUrl": null,
+  "sellerId": "6059456656",
+  "groupping": null,
+  "reviewsFormatted": "28",
+  "spendAndSave": null,
+  "over18Info": null,
+  "isReported": false,
+  "sourceId": "1",
+  "newBuyerProtection": {
+   "localEasyReturnPromise": false
+  },
+  "isTopItem": false,
+  "isBigSale": false,
+  "preselectSkuOutOfStockInfo": null,
+  "hasUserPersonalData": true,
+  "isChoiceItem": false,
+  "explainInfo": null,
+  "choiceType": "",
+  "customsFeeInfo": null,
+  "newProductTagText": "",
+  "trustReviewsLinkText": "28 отзывов",
+  "productInfo": {
+   "category": {
+    "categoryTree": "Мобильные телефоны/Аксессуары для мобильных телефонов/Внешние аккумуляторы",
+    "categoryId": "1567"
+   },
+   "brand": ""
+  },
+  "isComboChoice": false,
+  "comboChoiceInformer": null,
+  "topItemInformer": null,
+  "navigationLinks": {
+   "cartUrl": "https://aliexpress.ru/cart",
+   "checkoutUrl": "https://aliexpress.ru/checkout",
+   "comboCartUrl": "https://aliexpress.ru/minicart?cart_type=1"
+  },
+  "isLocalSeller": true,
+  "isThreshold": false,
+  "thresholdData": null
+ }
+}

@@ -1,0 +1,551 @@
+{
+ "data": {
+  "reviews": [
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-X"
+    },
+    "reviewer": {
+     "name": "Покупатель 1",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/ru.svg"
+    },
+    "root": {
+     "id": "root-1",
+     "date": "14 апреля 2026",
+     "grade": 1,
+     "text": "фонарик не оригенальный не работает сенсор вместо него нажатия кнопки сенсор срабатывает красный цвет  половина функцый отсутствует неработает широкоугольник у орегинала включаются две лампочки белого цвета у данного фонарика такая функцыя отсутствует .",
+     "originalText": null,
+     "images": [
+      {
+       "id": "2648206820",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A36c27b174bbb464ea0790532dba0af46M.jpeg"
+      },
+      {
+       "id": "2648206821",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A7fef500a16d4461d91f50790c4741fb4z.jpeg"
+      },
+      {
+       "id": "2648206822",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A21477045cf3a407db65e3ed6b2b9b221D.jpeg"
+      }
+     ],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 0,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 23634605232,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.0",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 0,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-X-storage bag"
+    },
+    "reviewer": {
+     "name": "Покупатель 2",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/ru.svg"
+    },
+    "root": {
+     "id": "root-2",
+     "date": "4 декабря 2024",
+     "grade": 1,
+     "text": "Качество низкое, кнопка красного света после двух включений больше не работает. Philips на порядок лучше.",
+     "originalText": null,
+     "images": [
+      {
+       "id": "2186434747",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A8cd9a5e66758453ead376a2b158f95b5s.jpg"
+      },
+      {
+       "id": "2186434748",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A3391a034b5ee4f48bccf44f1df91567eP.jpg"
+      }
+     ],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 1,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 17759419542,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.1",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 1,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-S-storage bag"
+    },
+    "reviewer": {
+     "name": "Покупатель 3",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/ru.svg"
+    },
+    "root": {
+     "id": "root-3",
+     "date": "24 февраля 2025",
+     "grade": 1,
+     "text": "факел луча узкий\nнет линзы, просто стекло плоское\nчтобы выключить нужно 5 раз отщелкать все режимы\nкак работает секция с датчиком движения непонятно, выключить тоже непонятно как, вобщем в работе он будет проблемным, только для бытовых нужд, и то с таким пучком света непонятно что можно делать",
+     "originalText": null,
+     "images": [],
+     "comments": [
+      {
+       "id": "19063844927",
+       "commenterName": "SUPERFIRE FACTORY Store",
+       "commenterInitials": null,
+       "commenterAvatar": "https://ae-pic-a1.aliexpress-media.com/kf/Ac9ecb1ff6d2543a48c430883b8a7aa640.jpg",
+       "date": "26 февраля 2025",
+       "text": "Здравствуйте, мы получили ваш комментарий здесь, наша фара настроена на функцию является (сильный - средний - слабый - вспышка - SOS - вспомогательный свет - основной вспомогательный свет - выключен) этот продукт производится в соответствии с таким заказом для развертывания этой фары на данный момент не имеет функции памяти. Как вы говорите, луч не проникает, это может беспокоить вас, чтобы отправить видео мне, чтобы увидеть, что дело, мы постараемся решить эту проблему для вас, здесь, чтобы дать вам сообщение, с нетерпением ждем ответа. Большое спасибо за вашу поддержку нашей продукции, здесь, если есть еще какой-либо вопрос, вы можете связаться с нами, я желаю вам счастливой жизни, под наблюдением потребителей, мы будем строго охранять качество нашей продукции. Пусть принесет вам самые искренние приветствия",
+       "originalText": null
+      }
+     ],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 2,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 19051214967,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.2",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": {
+     "id": "additional-3",
+     "date": "Дополнен 24 февраля 2025",
+     "grade": 1,
+     "text": "уена уж точно не соответствует, 300₽ максимум за такую безделушку, уж точно не 1.4к",
+     "originalText": null,
+     "images": [],
+     "comments": []
+    },
+    "interaction": {
+     "likesAmount": 0,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-S-storage bag"
+    },
+    "reviewer": {
+     "name": "Покупатель 4",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": null
+    },
+    "root": {
+     "id": "root-4",
+     "date": "24 декабря 2024",
+     "grade": 1,
+     "text": "Во-первых, батарея не длится долго, а во-вторых, корпус был поврежден при обращении",
+     "originalText": "Primeramente la batería no dura y en segundo el estuche se arruinó al manipularlo",
+     "images": [
+      {
+       "id": "2210869398",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A93fbd04b77b6493482aec58a5bab87d6U.jpg"
+      },
+      {
+       "id": "2210869399",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A9aa05eeb4a714181a646fa2245641708n.jpg"
+      }
+     ],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 3,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 18262555356,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.3",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 0,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-X"
+    },
+    "reviewer": {
+     "name": "Покупатель 5",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/ru.svg"
+    },
+    "root": {
+     "id": "root-5",
+     "date": "24 сентября 2025",
+     "grade": 1,
+     "text": "Фонарь светит, но аккумулятор внутри болтается. И фонарь не разборный, аккум не поменять",
+     "originalText": null,
+     "images": [],
+     "comments": [
+      {
+       "id": "22129737894",
+       "commenterName": "SUPERFIRE FACTORY Store",
+       "commenterInitials": null,
+       "commenterAvatar": "https://ae-pic-a1.aliexpress-media.com/kf/Ac9ecb1ff6d2543a48c430883b8a7aa640.jpg",
+       "date": "21 октября 2025",
+       "text": "Здравствуйте, у этого налобного фонаря встроен аккумулятор, который не вынимается. Его можно заряжать напрямую через USB, и он удобен в использовании. Если вам нужен съемный аккумулятор, свяжитесь с нами, и мы порекомендуем вам модель со съемным аккумулятором.",
+       "originalText": "Hello, this headlamp has a built-in battery, which is not removable. It can be charged directly via USB and is convenient to use. If you need a removable battery, please contact us and we will recommend a style with a removable battery."
+      }
+     ],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 4,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 22009178729,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.4",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 1,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-S"
+    },
+    "reviewer": {
+     "name": "Покупатель 6",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/ru.svg"
+    },
+    "root": {
+     "id": "root-6",
+     "date": "9 декабря 2025",
+     "grade": 1,
+     "text": "доставка   почти 2  месяца. посылка  терялась.    к  фонарю  претензий  нет",
+     "originalText": null,
+     "images": [],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 5,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 23124654442,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.5",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 1,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-S"
+    },
+    "reviewer": {
+     "name": "Покупатель 7",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/ru.svg"
+    },
+    "root": {
+     "id": "root-7",
+     "date": "6 апреля 2026",
+     "grade": 1,
+     "text": "заявлено 2000 мАч а пришло 500 мАч",
+     "originalText": null,
+     "images": [],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 6,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 23615020225,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.6",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 0,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-S-storage bag"
+    },
+    "reviewer": {
+     "name": "Покупатель 8",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/il.svg"
+    },
+    "root": {
+     "id": "root-8",
+     "date": "7 октября 2024",
+     "grade": 1,
+     "text": "фонарик работал 1 раз пока не села батарея. и больше не заряжается и не работает",
+     "originalText": null,
+     "images": [
+      {
+       "id": "2158962154",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/Ab013af36cf574f27967d654682ddfa65m.jpg"
+      }
+     ],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 7,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 17250010421,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.7",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 1,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-S-storage bag"
+    },
+    "reviewer": {
+     "name": "Покупатель 9",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": null
+    },
+    "root": {
+     "id": "root-9",
+     "date": "4 декабря 2025",
+     "grade": 1,
+     "text": "фонарик хороший , но я заказал HL23-S   а получил HL23",
+     "originalText": null,
+     "images": [
+      {
+       "id": "2560649722",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A82aff05b618b452ba1b802ac757cdaebF.jpg"
+      }
+     ],
+     "comments": [],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 8,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 23024227575,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.8",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": null,
+    "interaction": {
+     "likesAmount": 1,
+     "isLiked": false
+    },
+    "commentsControlButtons": null,
+    "sourceLabel": null
+   },
+   {
+    "product": {
+     "id": "1005005416845229",
+     "sourceId": 0,
+     "skuProperties": "HL23-A"
+    },
+    "reviewer": {
+     "name": "Покупатель 10",
+     "initials": null,
+     "avatar": null,
+     "countryFlag": "https://st.aliexpress.ru/mixer-storage/pdp/il.svg"
+    },
+    "root": {
+     "id": "root-10",
+     "date": "21 сентября 2024",
+     "grade": 1,
+     "text": "Не работает и продавец не отвечает",
+     "originalText": "Not work and the seller not responding",
+     "images": [
+      {
+       "id": "2148929661",
+       "url": "https://ae-pic-a1.aliexpress-media.com/kf/A7bcb87f46ce244fa9ba70b78168cfe98S.jpg"
+      }
+     ],
+     "comments": [
+      {
+       "id": "17063111450",
+       "commenterName": "SUPERFIRE FACTORY Store",
+       "commenterInitials": null,
+       "commenterAvatar": "https://ae-pic-a1.aliexpress-media.com/kf/Ac9ecb1ff6d2543a48c430883b8a7aa640.jpg",
+       "date": "25 сентября 2024",
+       "text": "Привет, друг. Мы очень сожалеем о неудобствах! Мы придаем большое значение вашим отзывам и рады услышать, что вы удовлетворены качеством товара. Что касается проблемы невозможности его использования, мы уже рассмотрели ее для вас и надеемся, что новый продукт сможет удовлетворить ваши потребности. Если у вас есть какие-либо другие вопросы или Вам нужна дополнительная помощь, пожалуйста, свяжитесь с нами, мы решим их в кратчайшие сроки! Спасибо за понимание и поддержку.",
+       "originalText": "Hello, friend. We are very sorry for the inconvenience! We attach great importance to your feedback and are happy to hear that you are satisfied with the quality of the product. Regarding the problem of not being able to use it, we have already dealt with it for you, and hope that the new product can meet your needs. If you have any other questions or need further help, please feel free to contact us, we will solve it for you as soon as possible! Thank you for your understanding and support."
+      }
+     ],
+     "analyticEvents": {
+      "viewReview": {
+       "actionType": "view_review",
+       "trackingInfo": {
+        "index": 9,
+        "itemId": 1005005416845229,
+        "pageArea": "reviews",
+        "rating": 1,
+        "review_id": 17063887172,
+        "source_id": 0,
+        "spm": "a2g2w.reviews.reviews.9",
+        "type": "review"
+       }
+      }
+     }
+    },
+    "additional": {
+     "id": "additional-10",
+     "date": "Дополнен 24 сентября 2024",
+     "grade": null,
+     "text": "Продавец прислал мне новый, несмотря на все хорошее качество👍",
+     "originalText": "המוכר שלח לי אחד חדש למרות הכל איכות טובה 👍",
+     "images": [],
+     "comments": [
+      {
+       "id": "17062154639",
+       "commenterName": "SUPERFIRE FACTORY Store",
+       "commenterInitials": null,
+       "commenterAvatar": "https://ae-pic-a1.aliexpress-media.com/kf/Ac9ecb1ff6d2543a48c430883b8a7aa640.jpg",
+       "date": "25 сентября 2024",
+       "text": "Спасибо за вашу поддержку и понимание. Если у вас есть какие-либо вопросы о продукте, пожалуйста, свяжитесь с нами",
+       "originalText": "Thank you for your support and understanding. If you have any questions about the product, please feel free to contact us"
+      }
+     ]
+    },
+    "interaction": {
+     "likesAmount": 0,
+     "isLiked": false
+    },
+    "commentsControlButtons": {
+     "buttonShowMoreTitle": "Ещё 1 комментарий",
+     "buttonShowLessTitle": "Свернуть"
+    },
+    "sourceLabel": null
+   }
+  ]
+ }
+}

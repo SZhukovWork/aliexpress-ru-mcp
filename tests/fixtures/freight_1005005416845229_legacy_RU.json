@@ -1,0 +1,42 @@
+{
+ "from": null,
+ "to": {
+  "country": "RU",
+  "city": "917483866975000000",
+  "region": "917483860000000000",
+  "countryName": "Россия",
+  "cityName": "Екатеринбург",
+  "regionName": "Свердловская область"
+ },
+ "displayMultipleMethods": false,
+ "methods": [],
+ "multipleFreightVersion": 0,
+ "noticeType": "",
+ "feature": null,
+ "freeMethods": [],
+ "freeThreshold": null,
+ "deliveryDescriptions": null,
+ "unitPrice": null,
+ "aerEvent": {
+  "actionType": "view_delivery_widget",
+  "trackingInfo": {
+   "type": "delivery",
+   "region": "917483860000000000",
+   "pageArea": "delivery_widget",
+   "spm": "a2g2w.detail.delivery_widget.0",
+   "country": "RU",
+   "city": "917483866975000000",
+   "finalPrice": "",
+   "currency": "RUB",
+   "sellerId": "2668153979",
+   "sku": "12000035196303760",
+   "itemId": "1005005416845229",
+   "threshold": "",
+   "arrayObjects": {
+    "values": []
+   },
+   "tags": []
+  }
+ },
+ "returnInfo": null
+}

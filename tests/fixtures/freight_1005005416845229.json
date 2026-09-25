@@ -1,0 +1,119 @@
+{
+ "from": {
+  "countryName": "",
+  "countryCode": ""
+ },
+ "to": {
+  "country": "RU",
+  "city": "917483866975000000",
+  "region": "917483860000000000",
+  "countryName": "Россия",
+  "cityName": "Екатеринбург",
+  "regionName": "Свердловская область"
+ },
+ "displayMultipleMethods": false,
+ "methods": [
+  {
+   "service": "",
+   "groupName": "В пункт выдачи",
+   "dateDisplay": "2026-10-09",
+   "dateEstimated": "",
+   "dateFormat": "7–9 октября",
+   "amount": {
+    "value": 0,
+    "currency": "RUB",
+    "formatted": "0 ₽"
+   },
+   "discount": 0,
+   "tracking": false,
+   "layouts": null,
+   "isHba": false,
+   "logisticsPromotionInfo": null,
+   "commitDay": 75,
+   "serviceGroupType": "self_pickup_point",
+   "serviceName": "CAINIAO_FULFILLMENT_STD",
+   "displayType": "",
+   "displayModel": null,
+   "upsaleRecommendationsInfo": null,
+   "deliveryBy": 0,
+   "passportRequired": true,
+   "etaStartDeliveryDate": "2026-10-07",
+   "etaEndDeliveryDate": "2026-10-09"
+  },
+  {
+   "service": "",
+   "groupName": "Почтой",
+   "dateDisplay": "2026-10-16",
+   "dateEstimated": "",
+   "dateFormat": "12–16 октября",
+   "amount": {
+    "value": 0,
+    "currency": "RUB",
+    "formatted": "0 ₽"
+   },
+   "discount": 0,
+   "tracking": false,
+   "layouts": null,
+   "isHba": false,
+   "logisticsPromotionInfo": null,
+   "commitDay": 75,
+   "serviceGroupType": "rupost_self_pickup_point",
+   "serviceName": "CAINIAO_FULFILLMENT_STD",
+   "displayType": "",
+   "displayModel": null,
+   "upsaleRecommendationsInfo": null,
+   "deliveryBy": 0,
+   "passportRequired": false,
+   "etaStartDeliveryDate": "2026-10-12",
+   "etaEndDeliveryDate": "2026-10-16"
+  }
+ ],
+ "multipleFreightVersion": 0,
+ "noticeType": "",
+ "feature": null,
+ "freeMethods": [],
+ "freeThreshold": null,
+ "deliveryDescriptions": null,
+ "unitPrice": null,
+ "aerEvent": {
+  "actionType": "view_delivery_widget",
+  "trackingInfo": {
+   "type": "delivery",
+   "region": "917483860000000000",
+   "pageArea": "delivery_widget",
+   "spm": "a2g2w.detail.delivery_widget.0",
+   "country": "RU",
+   "city": "917483866975000000",
+   "finalPrice": "0",
+   "currency": "RUB",
+   "sellerId": "2668153979",
+   "sku": "12000035196303760",
+   "itemId": "1005005416845229",
+   "threshold": "",
+   "arrayObjects": {
+    "values": [
+     {
+      "type": "delivery",
+      "selected": true,
+      "deliveryType": "В пункт выдачи",
+      "deliveryPrice": 0,
+      "currency": "RUB",
+      "deliveryDate": "7–9 октября",
+      "shippingCompany": "CAINIAO_FULFILLMENT_STD"
+     },
+     {
+      "type": "delivery",
+      "selected": false,
+      "deliveryType": "Почтой",
+      "deliveryPrice": 0,
+      "currency": "RUB",
+      "deliveryDate": "12–16 октября",
+      "shippingCompany": "CAINIAO_FULFILLMENT_STD"
+     }
+    ]
+   },
+   "tags": []
+  }
+ },
+ "returnInfo": null
+}

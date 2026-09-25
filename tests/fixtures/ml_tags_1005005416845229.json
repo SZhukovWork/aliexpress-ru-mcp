@@ -1,0 +1,428 @@
+{
+ "data": {
+  "tags": [
+   {
+    "id": "58357076",
+    "title": "Отличный налобный фонарь",
+    "mood": 1,
+    "counter": "23",
+    "bar": {
+     "relatedInText": "Упоминается в 23 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 23,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 23,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58407908",
+    "title": "Хорошо выглядит",
+    "mood": 1,
+    "counter": "19",
+    "bar": {
+     "relatedInText": "Упоминается в 19 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 19,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 19,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58349293",
+    "title": "Удобный",
+    "mood": 1,
+    "counter": "17",
+    "bar": {
+     "relatedInText": "Упоминается в 17 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 17,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 17,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58501372",
+    "title": "Яркий свет",
+    "mood": 1,
+    "counter": "16",
+    "bar": {
+     "relatedInText": "Упоминается в 16 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 16,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 16,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58360493",
+    "title": "Хорошо светит",
+    "mood": 1,
+    "counter": "16",
+    "bar": {
+     "relatedInText": "Упоминается в 16 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 16,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 16,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58546317",
+    "title": "Мощный свет",
+    "mood": 1,
+    "counter": "14",
+    "bar": {
+     "relatedInText": "Упоминается в 14 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 14,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 14,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58365039",
+    "title": "Легкий",
+    "mood": 1,
+    "counter": "11",
+    "bar": {
+     "relatedInText": "Упоминается в 11 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 11,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 11,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58693769",
+    "title": "Хорошие режимы",
+    "mood": 1,
+    "counter": "7",
+    "bar": {
+     "relatedInText": "Упоминается в 7 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 7,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 7,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "id": "58647223",
+    "title": "Хорошая лампа",
+    "mood": 1,
+    "counter": "7",
+    "bar": {
+     "relatedInText": "Упоминается в 7 отзывах",
+     "relevantPercentText": "100% позитивных",
+     "positivePercent": 100,
+     "negativePercent": 0
+    },
+    "analyticEvents": {
+     "clickTagReviews": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "reviews",
+       "quantity": 7,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.reviews.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     },
+     "clickTagQuotes": {
+      "actionType": "click_tag",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "quantity": 7,
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_tag",
+       "type": "tag",
+       "value": "positive"
+      }
+     }
+    }
+   }
+  ],
+  "sort": [
+   {
+    "value": 1,
+    "title": "Сначала позитивные",
+    "analyticEvents": {
+     "clickSort": {
+      "actionType": "click_sort",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_sort",
+       "type": "popup",
+       "value": "positive"
+      }
+     }
+    }
+   },
+   {
+    "value": 2,
+    "title": "Сначала негативные",
+    "analyticEvents": {
+     "clickSort": {
+      "actionType": "click_sort",
+      "trackingInfo": {
+       "itemId": 1005005416845229,
+       "pageArea": "quotes",
+       "sourceId": 0,
+       "spm": "a2g2w.detail.quotes.click_sort",
+       "type": "popup",
+       "value": "negative"
+      }
+     }
+    }
+   }
+  ],
+  "analyticEvents": {
+   "viewQuotesPopup": {
+    "actionType": "view_quotes_popup",
+    "trackingInfo": {
+     "itemId": 1005005416845229,
+     "pageArea": "quotes",
+     "sourceId": 0,
+     "spm": "a2g2w.detail.quotes.0",
+     "type": "popup"
+    }
+   },
+   "clickClosePopup": {
+    "actionType": "click_close_popup",
+    "trackingInfo": {
+     "pageArea": "quotes",
+     "spm": "a2g2w.detail.quotes.close_popup",
+     "type": "popup"
+    }
+   },
+   "clickShowMore": {
+    "actionType": "click_show_more",
+    "trackingInfo": {
+     "itemId": 1005005416845229,
+     "pageArea": "reviews",
+     "sourceId": 0,
+     "spm": "a2g2w.detail.reviews.show_more",
+     "type": "ui"
+    }
+   },
+   "viewTags": {
+    "actionType": "view_tags",
+    "trackingInfo": {
+     "itemId": 1005005416845229,
+     "pageArea": "reviews",
+     "sourceId": 0,
+     "spm": "a2g2w.detail.reviews.tags",
+     "tags": [
+      "positive=9",
+      "negative=0"
+     ],
+     "type": "tag"
+    }
+   }
+  }
+ }
+}

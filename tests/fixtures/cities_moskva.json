@@ -1,0 +1,86 @@
+{
+ "data": {
+  "cities": [
+   {
+    "cityCode": "917477679070000000",
+    "cityName": "Москва",
+    "extendedCityName": "Москва",
+    "localityType": "город",
+    "provinceCode": "917477670000000000",
+    "provinceName": "Москва г"
+   },
+   {
+    "cityCode": "917484868069083000",
+    "cityName": "Москва",
+    "extendedCityName": "Тверская область, Пеновский район",
+    "localityType": "деревня",
+    "provinceCode": "917484860000000000",
+    "provinceName": "Тверская обл"
+   },
+   {
+    "cityCode": "917480838079482000",
+    "cityName": "Москва",
+    "extendedCityName": "Псковская область, Порховский район",
+    "localityType": "деревня",
+    "provinceCode": "917480830000000000",
+    "provinceName": "Псковская обл"
+   },
+   {
+    "cityCode": "917475868683033000",
+    "cityName": "Москва",
+    "extendedCityName": "Кировская область, Верхошижемский район",
+    "localityType": "деревня",
+    "provinceCode": "917475860000000000",
+    "provinceName": "Кировская обл"
+   },
+   {
+    "cityCode": "917480828372008000",
+    "cityName": "Новая Москва",
+    "extendedCityName": "Приморский край, Шкотовский район",
+    "localityType": "деревня",
+    "provinceCode": "917480820000000000",
+    "provinceName": "Приморский край"
+   },
+   {
+    "cityCode": "917478907685038000",
+    "cityName": "Новая Москва",
+    "extendedCityName": "Нижегородская область, Лукояновский район",
+    "localityType": "посёлок",
+    "provinceCode": "917478900000000000",
+    "provinceName": "Нижегородская обл"
+   },
+   {
+    "cityCode": "917466756690068000",
+    "cityName": "Менеуз-Москва",
+    "extendedCityName": "Республика Башкортостан, Бижбулякский район",
+    "localityType": "село",
+    "provinceCode": "917466750000000000",
+    "provinceName": "Башкортостан Респ"
+   },
+   {
+    "cityCode": "917466827583008000",
+    "cityName": "Новая Москва",
+    "extendedCityName": "Брянская область, Красногорский район",
+    "localityType": "посёлок",
+    "provinceCode": "917466820000000000",
+    "provinceName": "Брянская обл"
+   },
+   {
+    "cityCode": "917466826682034000",
+    "cityName": "355 км и 356 км автотрассы Москва-Киев",
+    "extendedCityName": "Брянская область, Брянский район",
+    "localityType": "населённый пункт",
+    "provinceCode": "917466820000000000",
+    "provinceName": "Брянская обл"
+   },
+   {
+    "cityCode": "917484848689016000",
+    "cityName": "809 км а/д -7 Москва-Казань-Уфа территория",
+    "extendedCityName": "Республика Татарстан, Высокогорский район",
+    "localityType": "местечко",
+    "provinceCode": "917484840000000000",
+    "provinceName": "Татарстан Респ"
+   }
+  ]
+ }
+}

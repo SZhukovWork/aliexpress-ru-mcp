@@ -1,0 +1,284 @@
+{
+ "widgets": [
+  {
+   "uuid": "ae72b0f5-8ee3-4967-a5b5-8c84292fc0de",
+   "name": "HazeProductCharacteristics",
+   "vertical": "bx",
+   "version": "0.5.1",
+   "state": {
+    "data": {
+     "productId": "1005005416845229",
+     "sourceId": "0",
+     "title": "Характеристики",
+     "groups": [
+      {
+       "title": "",
+       "properties": [
+        {
+         "name": "Название бренда",
+         "value": "SUPERFIRE",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Номер модели",
+         "value": "HL23 HL23-A HL23-S",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Происхождение",
+         "value": "Китай",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Тип товара",
+         "value": "Фара",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Сертификация",
+         "value": "RoHS, FCC, CQC, Евротест (СЕ), Обязательный сертификат КНР",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Защита от влаги",
+         "value": "Да",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Мощность",
+         "value": "2W/5W",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Номинальное напряжение",
+         "value": "3,7 В",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Сертификация",
+         "value": "Обязательный сертификат КНР, Европейский сертификат соответствия, CQC, FCC, ROHS",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Источник света",
+         "value": "Светодиодные лампы",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Режим переключения",
+         "value": "Высокий/средний/низкий",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Есть ли батарейки в комплекте",
+         "value": "ДА",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Цель",
+         "value": "Fishing Camping headlight",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Единица измерения",
+         "value": "штука/штуки",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Количество",
+         "value": "1",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Waterproof Level",
+         "value": "IP44",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 1",
+         "value": "Headlamps",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 2",
+         "value": "Powerful Headlamp",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 3",
+         "value": "Rechargeable Powerful Headlamp",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 4",
+         "value": "Mini Rechargeable Headlamp",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 5",
+         "value": "High POWER Rechargeable Headlamp",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 6",
+         "value": "High POWER Rechargeable Headlight",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 7",
+         "value": "led headlamp usb rechargeable",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Features 8",
+         "value": "headlight led head",
+         "icon": null,
+         "sortIndex": 2147483647
+        },
+        {
+         "name": "Application Scenario",
+         "value": "Working Fishing Outdoor Camping Fishing Lantern",
+         "icon": null,
+         "sortIndex": 2147483647
+        }
+       ]
+      }
+     ],
+     "summaryProps": [
+      {
+       "name": "Название бренда",
+       "value": "SUPERFIRE",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Номер модели",
+       "value": "HL23 HL23-A HL23-S",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Происхождение",
+       "value": "Китай",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Тип товара",
+       "value": "Фара",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Сертификация",
+       "value": "RoHS, FCC, CQC, Евротест (СЕ), Обязательный сертификат КНР",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Защита от влаги",
+       "value": "Да",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Мощность",
+       "value": "2W/5W",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Номинальное напряжение",
+       "value": "3,7 В",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Сертификация",
+       "value": "Обязательный сертификат КНР, Европейский сертификат соответствия, CQC, FCC, ROHS",
+       "icon": null,
+       "sortIndex": 2147483647
+      },
+      {
+       "name": "Источник света",
+       "value": "Светодиодные лампы",
+       "icon": null,
+       "sortIndex": 2147483647
+      }
+     ],
+     "analytics": {
+      "viewSpecificationButton": {
+       "actionType": "view_specification_button",
+       "trackingInfo": {
+        "itemId": "1005005416845229",
+        "kind": "productSpecification",
+        "pageArea": "specifications_button",
+        "sourceId": 0,
+        "spm": "a2g2w.detail.specifications_button.0",
+        "type": "ui"
+       }
+      },
+      "clickSpecificationButton": {
+       "actionType": "click_specification_button",
+       "trackingInfo": {
+        "itemId": "1005005416845229",
+        "kind": "productSpecification",
+        "pageArea": "specifications_button",
+        "sourceId": 0,
+        "spm": "a2g2w.detail.specifications_button.0",
+        "type": "ui"
+       }
+      }
+     }
+    }
+   },
+   "props": {
+    "skuPlaced": true,
+    "scrollOffset": 110,
+    "isHideButtonAfterExpand": false
+   },
+   "staticProps": {},
+   "asyncType": "DISABLED"
+  },
+  {
+   "uuid": "e1459484-97b0-4e41-a0be-e06fb8a0ff01",
+   "name": "SnowProductContent",
+   "vertical": "bx",
+   "version": "0.8.0",
+   "state": {
+    "data": {
+     "html": "<div><div><p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br><br></p>\n<p><img src=\"https://ae-pic-a1.aliexpress-media.com/kf/S21bd783f74f64e8aacfe6f732afe9b693.jpg\"><a href=\"https://www.aliexpress.com/item/3256806067932583.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.26e7ae0bCFcXSw&amp;pdp_npi=4%40dis%21USD%21US%20%2412.11%21US%20%247.11%21%21%2187.24%2151.22%21%40212bc77117156665574672875e5f8d%2112000036503015453%21sh%21UA%212668153979%21&amp;gatewayAdapt=4itemAdapt\"><img width=\"944\" height=\"418\" src=\"https://ae-pic-a1.aliexpress-media.com/kf/S7dcce0f3a8f24d80a1d4b736d3133627j.jpg\"></a><a href=\"https://www.aliexpress.com/item/3256806540715713.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.26e7ae0bCFcXSw&amp;pdp_npi=4%40dis%21USD%21US%20%2427.69%21US%20%2411.89%21%21%21199.49%2185.67%21%40212bc77117156665574672875e5f8d%2112000038107605555%21sh%21UA%212668153979%21&amp;gatewayAdapt=4itemAdapt\"><img width=\"944\" height=\"418\" src=\"https://ae-pic-a1.aliexpress-media.com/kf/Sdc24c6c9e4534e058b93afd0e0ea5257F.jpg\"></a><a href=\"https://www.aliexpress.com/item/3256806076271338.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.26e7ae0bCFcXSw&amp;pdp_npi=4%40dis%21USD%21US%20%245.98%21US%20%240.99%21%21%2143.07%217.12%21%40212bc77117156665574672875e5f8d%2112000036535389394%21sh%21UA%212668153979%21&amp;gatewayAdapt=4itemAdapt\"><img width=\"944\" height=\"418\" src=\"https://ae-pic-a1.aliexpress-media.com/kf/S3fda12c6c3984404ba6da2e1e95f23d3S.jpg\"></a><br></p>\n<div>\n <div>\n  <p><span style=\"color: rgb(254, 146, 0); font-size: 24px\"><strong>Примечание:</strong></span></p>\n  <p><span style=\"color: rgb(77, 77, 77); font-size: 18px\">1. Если после получения продукт не работает должным образом, заряжайте его в течение получаса с помощью оригинального зарядного кабеля (5 В/1 А) или (5 В/2 А).</span></p>\n  <div>\n   <br>\n  </div>\n  <p><span style=\"color: rgb(77, 77, 77); font-size: 18px\">2 Продукт не поддерживает использование во время зарядки.</span></p>\n  <div>\n   <br>\n  </div>\n  <p><span style=\"color: rgb(77, 77, 77); font-size: 18px\">3 Инфракрасная приемная трубка/передающая трубка фары используется только для функции обнаружения, а не для освещения.</span></p>\n  <p><span style=\"color: rgb(254, 146, 0); font-size: 24px\"><strong>Как включить красный свет?</strong></span></p>\n  <p><span style=\"font-size: 18px\">Дважды щелкните, чтобы активировать режим мигания красного света, нажмите и удерживайте в течение 3 секунд, чтобы выключить его.</span></p>\n  <div>\n   <br>\n  </div>\n  <p><img src=\"https://ae-pic-a1.aliexpress-media.com/kf/Sefb4d3764c88450eb77d7633797a2bafB.jpg\"><img src=\"https://ae-pic-a1.aliexpress-media.com/kf/Sb2fecc4b21764dbaabd49671c7ff1fb1D.png\"><img src=\"https://ae-pic-a1.aliexpress-media.com/kf/S143a39ae0e844644a68a9e13cdbcb8df1.jpg\"><img width=\"944\" height=\"944\" src=\"https://ae-pic-a1.aliexpress-media.com/kf/S3ed541c8f8b047bba67f42ea5e53fe5fN.jpg\"><img width=\"944\" height=\"944\" src=\"https://ae-pic-a1.aliexpress-media.com/kf/Sa013fad66a9846a3b497b942e9ffa8bb4.jpg\"></p>\n </div>\n</div>\n<p><br></p>\n<p><span style=\"font-size: 22px\"><span style=\"font-size: 22px\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 22px\">Перезаряжаемый USB-налобный фонарь серии SUPERFIRE HL23</span></strong></span></span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(160, 160, 160); background-color: rgb(245, 245, 245); border: 0px none; margin: 0px 0px 10px; margin-bottom: 10px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><span style=\"color: rgb(0, 0, 0); font-size: 22px\">Серия SUPERFIRE HL23   это высокопроизводительные перезаряжаемые USB-фара с функцией интеллектуального датчика.Одним движением руки эту светодиодную сенсорную фару можно включать и выключать, что обеспечивает максимальную легкость в различных условиях работы.</span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(160, 160, 160); background-color: rgb(245, 245, 245); border: 0px none; margin: 0px 0px 10px; margin-bottom: 10px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><span style=\"color: rgb(0, 0, 0); font-size: 22px\">Перезаряжаемый USB-налобный фонарь имеет 9 режимов освещения: сильный свет, средний свет, слабый свет, стробоскоп, режим SOS, вспомогательный свет, основной и вспомогательный свет, красный свет и красный сильный свет.По сравнению с другими налобными фарами сенсорная фара серии SUPERFIRE HL23 отличается легким и стильным дизайном.Кроме того, этот светодиодный налобный фонарь может работать до 12 часов при слабом освещении, обеспечивая длительную защиту.Это непревзойденный вариант для кемпинга, чтения, ночного бега, рыбалки, ремонта и других сценариев.</span></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<div>\n <div>\n  <div>\n   <div>\n    \n   </div>\n  </div>\n </div>\n</div>\n<p><span style=\"color: rgb(0, 0, 0); font-size: 14px\">1. Экологически чистый красный свет: в любом режиме освещения дважды нажмите, чтобы включить красный свет, нажмите еще раз, чтобы красный стробоскоп.Красный свет может эффективно защитить ночное видение.Он идеально подходит для наблюдения за дикой природой, наблюдения за звездами, аварийного реагирования и ночной фотографии.Нажмите один раз, чтобы вернуться в исходный режим.</span><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><img src=\"https://www.superfire.com/upfiles/202208/30/adf8317a0d1fd6659.jpg\">2. <span style=\"color: rgb(0, 0, 0); font-size: 14px\">Датчик движения: встроенная функция датчика движения, легко управлять включением/выключением фары, взмахнув рукой, более удобно (эффективное расстояние 10 см).</span> <img src=\"https://www.superfire.com/upfiles/202208/30/a6a8074c3e2aa9b75.jpg\"> <img src=\"https://www.superfire.com/upfiles/202208/30/ab03b1f4b65e6d391.jpg\"> <span style=\"color: rgb(0, 0, 0); font-size: 14px\">3. Зарядка через USB: удобство является главным приоритетом, питание везде. Автомобили, блоки питания, прикроватные розетки или компьютеры могут заряжать Superfire HL23 с помощью крошечного кабеля micro USB type-c.</span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><span style=\"color: rgb(0, 0, 0); font-size: 14px\">Миниатюрный и сверхлегкий дизайн: более удобный в ношении, простой в использовании при различных мероприятиях на свежем воздухе.</span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 14px\">4. Длительное время работы: сверхдлительное время работы 180 минут благодаря встроенному литий-ионному аккумулятору емкостью 14500 (800 мАч).</span></p>\n<p><img src=\"https://www.superfire.com/upfiles/202208/30/a2b9baedc7a5e1cff.jpg\"><span style=\"background-color: rgb(245, 245, 245); color: rgb(0, 0, 0); font-size: 14px\"><span style=\"color: rgb(0, 0, 0); font-size: 14px\">5.45°Регулируемая головка: головку можно отрегулировать на 45 градусов, чтобы осветить все мертвые зоны, и ее можно плавно наклонять одним пальцем.Гарантирует отсутствие слепых зон на открытом воздухе.Максимальное расстояние освещения составляет около 120 м.</span></span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><img src=\"https://www.superfire.com/upfiles/202208/30/a30d026f522a9dd72.jpg\"><span style=\"color: rgb(0, 0, 0); font-size: 14px\">6. Устойчивость к атмосферным воздействиям: класс защиты IP44 при любых погодных условиях, водонепроницаемость на открытом воздухе. Водонепроницаемый и ударопрочный, налобный фонарь Superfire HL23 подходит для дождя или снега, в помещении или на открытом воздухе.</span><br></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><img src=\"https://www.superfire.com/upfiles/202208/30/a88e17414cb24ddae.jpg\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 14px\">7.</span><span style=\"color: rgb(0, 0, 0); font-size: 14px\">Применимо к большему количеству сценариев: пеший туризм, бег трусцой, работа без помощи рук или отправка сигнала бедствия в чрезвычайной ситуации.Он охватывает большинство сценариев использования.</span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><img src=\"https://www.superfire.com/upfiles/202208/30/af53e4504e09d039b.jpg\"><img src=\"https://ae-pic-a1.aliexpress-media.com/kf/Safd7d4b92ad9475a9efeab1eeb3a0d07Q.jpg\"></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 14px\">8.</span><span style=\"color: rgb(0, 0, 0); font-size: 14px\">Ценный пакет: Каждый заказ содержит фара Superfire HL23 (батарея внутри) + USB-кабель + коробку. Храните один в машине или храните дома!</span></p>\n<p style=\"font-size: 14px; text-align: left; color: rgb(60, 60, 60); background-color: rgb(255, 255, 255); border: 0px none; margin: 0px; margin-bottom: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; padding: 0px; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px\" align=\"left\"><img src=\"https://www.superfire.com/upfiles/202205/26/a4655e2010350d4a3.jpg\"><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p></div></div>\n"
+    }
+   },
+   "props": {
+    "scrollTopOffset": 112,
+    "maxContentHeight": 1280
+   },
+   "staticProps": {},
+   "asyncType": "DISABLED"
+  }
+ ]
+}

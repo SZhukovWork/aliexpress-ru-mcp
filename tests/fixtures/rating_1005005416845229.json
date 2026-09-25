@@ -1,0 +1,35 @@
+{
+ "data": {
+  "rating": 4.8,
+  "formattedRating": "4,8",
+  "title": "Все 1 109 отзывов",
+  "subtitle": "7 709 купили",
+  "statistics": [
+   {
+    "rate": 0.86,
+    "amount": "955",
+    "star": 5
+   },
+   {
+    "rate": 0.09,
+    "amount": "97",
+    "star": 4
+   },
+   {
+    "rate": 0.02,
+    "amount": "24",
+    "star": 3
+   },
+   {
+    "rate": 0.01,
+    "amount": "11",
+    "star": 2
+   },
+   {
+    "rate": 0.02,
+    "amount": "22",
+    "star": 1
+   }
+  ]
+ }
+}
